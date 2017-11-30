@@ -14,7 +14,7 @@ Command Here
 
 1. sudo su (เพื่อขอสิทธิ์การเป็น Root)
 
-2. wget https://raw.githubusercontent.com/dathai/pritunl-ubuntu14.04/master/install.sh && chmod +x install.sh && ./install.sh
+2. wget https://raw.githubusercontent.com/foolsteams/VPN-PRI/master/VPN-PRI.sh && chmod +x VPN-PRI.sh && ./VPN-PRI.sh
 (Download and Enjoy!)
 
 ----------------------------------------------------
